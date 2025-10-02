@@ -1,5 +1,7 @@
 # AI-Farming-Chatbot
 
+<img width="1280" height="720" alt="SQL_Thumbnail (30)" src="https://github.com/user-attachments/assets/057dfe09-3040-4c26-9b19-2266c3d922ef" />
+
 Bring your garden to life with artificial intelligence—right inside your terminal! 🌱
 
 In this video, I showcase a Python + PyTorch project that:
